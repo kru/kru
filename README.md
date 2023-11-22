@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Kris Pamungkas here, nice to see you stopping here accidentally or not.
+Kris here, nice to see you stopping by here accidentally or not.
 
 <!-- **kru/kru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
