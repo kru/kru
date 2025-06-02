@@ -8,5 +8,5 @@ Kris here, nice to see you stopping by.
 - 🌏 I have been comfortable working remotely since 2018
 - 🚀 ...
 
-You can find more about me at https://kris-dev.cloud
+You can find more about me https://kris-dev.cloud
 
